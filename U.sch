@@ -7917,6 +7917,9 @@ Source: http://www.osram.convergy.de/</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="202,1,78.74,45.72,IC1,DIS,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
